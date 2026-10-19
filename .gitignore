@@ -1,0 +1,16 @@
+# Game data must not be committed
+*.BIN
+*.bin
+*.iso
+*.ALL
+*.STR
+*.IRX
+*.IMG
+SLUS_*
+listing.txt
+xrefs.tsv
+*.wav
+*.png
+*.obj
+*.mtl
+__pycache__/
